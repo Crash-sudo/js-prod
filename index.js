@@ -2,7 +2,29 @@
 import "./style.css";
 
 // Write Javascript code!
-const appDiv = document.getElementById("app");
-appDiv.innerHTML = `<h1>Cools</h1>`;
+//
+// let catName = "fluffy";
+// let catAge = 4
 
-console.log("hello World");
+// function meow() {
+//   alert("Meoowwww")
+// }
+
+// let cat = {
+//   name: "Fully",
+//   age: 4,
+//   foods: { fav: 'tuna', notfav: "orange" },
+//   meow() {
+//     alert("Meoowwww");
+//   }
+// };
+
+// console.log(cat.foods.notfav);
+
+// let body = {
+//   myAmazing() {
+//     alert("hello there!");
+//   }
+// };
+
+document.addEventListener("click", body.myAmazing);
