@@ -24,7 +24,52 @@ import "./style.css";
 // let body = {
 //   myAmazing() {
 //     alert("hello there!");
+//   },
+//   foods: {
+//     fav:'tuna',
+//     not:'bread'
 //   }
 // };
 
-document.addEventListener("click", body.myAmazing);
+// // document.addEventListener("click", body.myAmazing);
+// // console.log(body.foods.fav);
+
+
+let myWords = ['red', 'yellow', 'blue'];
+
+// let myPets = [{nurse:"macWorld", species:"cat"}, {name:"bracket", species:"dog"}];
+
+// // console.log(myPets[0]);
+
+// myPets.push("green");
+
+// console.log(myPets);
+
+// let MyNum = 7.90 ;
+// console.log(MyNum.toFixed()) 
+
+
+console.log(myWords.splice(0,1));
+console.log(myWords);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
